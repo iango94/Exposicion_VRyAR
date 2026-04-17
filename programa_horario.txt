@@ -1,1 +1,33 @@
 Reunion 1: Jueves de 8:00pm a 10:00pm 
+
+presentacion:
+    intro:
+        quien es quien
+        que es VR
+        que es AR
+
+    usos practicos (ejemplos):
+        especialista VR:
+            siuladores de vuelo?
+            gameing?
+
+            SIMULACION DE VR: 
+
+        especialista AR:
+
+        Apple Vision Pro?
+            RA Orion de Meta?
+            probadores virtuales de ropa/maquillaje?
+            simu
+
+    como se puede implementar en los proyectos
+
+    conclusiones:
+
+
+diseño de dispositivo:
+    3d en medicina?
+    QR para VA
+
+
+
