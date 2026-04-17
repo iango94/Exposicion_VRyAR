@@ -1,4 +1,4 @@
-"# Exposicion\_VRyAR"
+# Exposicion\_VRyAR
 - El Host (Moderador): Abre con el gancho, presenta el tema y hace las transiciones entre compañeros. Controla el tiempo con señas.
 
 - Especialista AR (Realidad Aumentada): Explica el Uso Práctico 1.
