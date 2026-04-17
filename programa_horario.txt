@@ -1,7 +1,7 @@
 Reunion 1: Jueves de 8:00pm a 10:00pm 
 
 presentacion:
-    intro:
+    intro: (LAURA)
         quien es quien
         que es VR
         que es AR
@@ -11,7 +11,7 @@ presentacion:
             siuladores de vuelo?
             gameing?
 
-            SIMULACION DE VR: 
+            SIMULACION DE VR: (CAMILO)
 
         especialista AR:
 
@@ -22,7 +22,7 @@ presentacion:
 
     como se puede implementar en los proyectos
 
-    conclusiones:
+    conclusiones: (ANGEL)
 
 
 diseño de dispositivo:
