@@ -1,6 +1,6 @@
 "# Exposicion\_VRyAR"
 
-
+l
 
 Este es el repo para la exposicion de realidad virtual...
 
