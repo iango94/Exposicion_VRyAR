@@ -1,4 +1,5 @@
 PARTE LAURA: 
+
 Buenos días a todos, para empezar, les invitamos a ver el siguiente video.  
 Una vez visto el video, parece una broma para perder el tiempo, ¿verdad?. Pero como futuros ingenieros electrónicos, lo que acabamos de ver no es solo un muñequito bailando; es procesamiento de imágenes en tiempo real, estimación de profundidad y mapeo de superficies ejecutándose en la palma de nuestra mano. 
 Para que esa figura se mantenga estable, el hardware está ejecutando algoritmos de SLAM (Localización y Mapeo Simultáneos), integrando datos de la IMU para compensar el movimiento y utilizando sensores ToF (Tiempo de vuelo) o LiDAR para medir distancias mediante pulsos de luz infrarroja.
@@ -6,6 +7,7 @@ Para que esa figura se mantenga estable, el hardware está ejecutando algoritmos
 Cuántos de ustedes han comprado algo por internet y cuando les llegó a la casa resultó ser más grande,más pequeño o simplemente no se veía como en la foto? Normalmente dependemos de la imaginación, pero la Realidad Aumentada elimina esa duda convirtiendo nuestro entorno en un lienzo interactivo
 
 PARTE ALEJANDRO:
+
 A diferencia de otras tecnologías, la RA no nos saca de aquí; potencia lo que ya vemos. ¿Cómo lo hacemos? Usamos la cámara y sensores (como el giroscopio y el acelerómetro) para que el software detecte superficies planas. Una vez que el sistema entiende dónde está el suelo o la pared, inyecta objetos digitales con coordenadas reales. Es, básicamente, añadir una capa de datos digitales sobre el mundo físico
 
 El uso más práctico hoy es el Probador Virtual de Objetos. Empresas como IKEA o Amazon ya lo usan: tú eliges un producto y lo ves aquí, a escala 1:1. Puedes caminar alrededor de él como si fuera sólido. Esto no es solo para decorar; es para tomar decisiones basadas en la realidad, ahorrando tiempo, dinero y errores de logística
@@ -13,6 +15,7 @@ El uso más práctico hoy es el Probador Virtual de Objetos. Empresas como IKEA 
 Como ven, la Realidad Aumentada nos permite traer lo digital a nuestro mundo físico para mejorarlo. Pero, ¿qué pasa cuando el mundo físico ya no es suficiente? ¿Qué pasa cuando no queremos traer un objeto aquí, sino que nosotros queremos ir a otro lugar? Para responder eso, los dejo con la Realidad Virtual
 
 PARTE HANNAH:
+
 ¿A quién de aquí no le gustaría estar en Nueva York?
 Bueno, el día de hoy podremos estar ahí sin necesitar pasaporte, ni visa. Lo único que necesitaremos es escanear este código QR y esperar
 a que inicie nuestro tour por la ciudad (por favor silencien el video porque yo seré su guía turística y denle play cuando yo les diga).
