@@ -41,7 +41,8 @@ PARTE IAN:
         en la actualidad hay herramientas educativos en VR completamente funcionales: labster
         gafas de RA en el diseño y analisis de circuitos (proximos años)
         
-
+CONCLUSION (ANGEL) [angel CORRIGELO!!!]:
+    conclusion mirando al futuro....
 
 bibliografia:
     https://www.nvidia.com/en-us/design-visualization/solutions/virtual-reality/
