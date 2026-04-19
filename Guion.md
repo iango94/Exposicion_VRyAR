@@ -30,16 +30,16 @@ temporadas de invierno. Luego tenemos el Central Park, y si giran van a poder ve
 
 
 PARTE IAN:
-    Saben que es esto (procesador PC)?
-        tiene millones de transistores
-        se imaginan buscar un problema de diseño?
-        Nvidia y simens estan usando entornos de realidad virtusl en diseño y optimizacion
-        algunos de estos entornos son colaborativos
-        XR -> que es.
+1) Saben que es esto (procesador PC)?
+  a) tiene millones de transistores
+  b) se imaginan buscar un problema de diseño?
+  c) Nvidia y simens estan usando entornos de realidad virtusl en diseño y optimizacion
+  d) algunos de estos entornos son colaborativos
+  e) XR -> que es.
 
-    y nosotros que obtenemos?
-        en la actualidad hay herramientas educativos en VR completamente funcionales: labster
-        gafas de RA en el diseño y analisis de circuitos (proximos años)
+2) y nosotros que obtenemos?
+ a) en la actualidad hay herramientas educativos en VR completamente funcionales: labster
+ b) gafas de RA en el diseño y analisis de circuitos (proximos años)
         
 CONCLUSION (ANGEL) [angel CORRIGELO!!!]:
     conclusion mirando al futuro....
