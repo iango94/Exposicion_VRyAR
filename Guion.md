@@ -1,5 +1,5 @@
 PARTE LAURA: 
-Buenos días a todos, para empezar, les invitamos a ver el siguiente video. 
+Buenos días a todos, para empezar, les invitamos a ver el siguiente video.  
 Una vez visto el video, parece una broma para perder el tiempo, ¿verdad?. Pero como futuros ingenieros electrónicos, lo que acabamos de ver no es solo un muñequito bailando; es procesamiento de imágenes en tiempo real, estimación de profundidad y mapeo de superficies ejecutándose en la palma de nuestra mano. 
 Para que esa figura se mantenga estable, el hardware está ejecutando algoritmos de SLAM (Localización y Mapeo Simultáneos), integrando datos de la IMU para compensar el movimiento y utilizando sensores ToF (Tiempo de vuelo) o LiDAR para medir distancias mediante pulsos de luz infrarroja.
 ¿Que tiene que ver con la electrónica? Resulta que la Realidad Aumentada es una interfaz hombre-máquina. Imaginen apuntar a una PCB y ver el flujo de corriente, o visualizar el pinout de un integrado y la información sobre el componente sin despegar la vista del cautín. Ahora bien profundizaremos un poco más en sus aplicaciones y la diferencia entre RA y RV.
