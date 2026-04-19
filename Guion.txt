@@ -14,3 +14,21 @@ Cathedral. Luego, si miramos hacia el frente, tenemos el World Trade Center que 
 dar media vuelta tenemos el Rockefeller Center, un lugar que aparece en Mi pobre Angelito con una pista de hielo que es emblemática en
 temporadas de invierno. Luego tenemos el Central Park, y si giran van a poder ver una fuente que se ve en diferentes películas como
 "Encantada". Y finalmente, el Times Square.
+
+
+PARTE IAN:
+    Saben que es esto (procesador PC)?
+        tiene millones de transistores
+        se imaginan buscar un problema de diseño?
+        Nvidia y simens estan usando entornos de realidad virtusl en diseño y optimizacion
+        algunos de estos entornos son colaborativos
+        XR -> que es.
+
+    y nosotros que obtenemos?
+        en la actualidad hay herramientas educativos en VR completamente funcionales: labster
+        gafas de RA en el diseño y analisis de circuitos (proximos años)
+        
+
+
+bibliografia Ian:
+    https://www.nvidia.com/en-us/design-visualization/solutions/virtual-reality/
