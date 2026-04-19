@@ -51,7 +51,10 @@ PARTE IAN:
  
         
 CONCLUSION (ANGEL) [angel CORRIGELO!!!]:
+
     conclusion mirando al futuro....
 
+
 bibliografia:
+
     https://www.nvidia.com/en-us/design-visualization/solutions/virtual-reality/
