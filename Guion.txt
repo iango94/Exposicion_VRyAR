@@ -35,5 +35,5 @@ PARTE IAN:
         
 
 
-bibliografia Ian:
+bibliografia:
     https://www.nvidia.com/en-us/design-visualization/solutions/virtual-reality/
