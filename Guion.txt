@@ -1,9 +1,14 @@
+PARTE LAURA: 
+Buenos días a todos, para empezar, les invitamos a ver el siguiente video. 
+Una vez visto el video, parece una broma para perder el tiempo, ¿verdad?. Pero como futuros ingenieros electrónicos, lo que acabamos de ver no es solo un muñequito bailando; es procesamiento de imágenes en tiempo real, estimación de profundidad y mapeo de superficies ejecutándose en la palma de nuestra mano. 
+Para que esa figura se mantenga estable, el hardware está ejecutando algoritmos de SLAM (Localización y Mapeo Simultáneos), integrando datos de la IMU para compensar el movimiento y utilizando sensores ToF (Tiempo de vuelo) o LiDAR para medir distancias mediante pulsos de luz infrarroja.
+¿Que tiene que ver con la electrónica? Resulta que la Realidad Aumentada es una interfaz hombre-máquina. Imaginen apuntar a una PCB y ver el flujo de corriente, o visualizar el pinout de un integrado y la información sobre el componente sin despegar la vista del cautín. Ahora bien profundizaremos un poco más en sus aplicaciones y la diferencia entre RA y RV.
+
 PARTE HANNAH:
 ¿A quién de aquí no le gustaría estar en Nueva York?
-Bueno, el día de hoy podremos estar ahí sin necesitar pasaporte, ni visa. Lo único que necesitaremos es escannear este código QR y esperar
+Bueno, el día de hoy podremos estar ahí sin necesitar pasaporte, ni visa. Lo único que necesitaremos es escanear este código QR y esperar
 a que inicie nuestro tour por la ciudad (por favor silencien el video porque yo seré su guía turística y denle play cuando yo les diga).
-Mientras todos ingresan al video, les hablaré un poco sobre la realidad virtual. Si bien esta tiene diferentes aplicaciones como en la
-salud, la educación y la ingeniería. Yo me quise enfocar en algo que a todos nos gusta, que es viajar.
+Mientras todos ingresan al video, les hablaré un poco sobre la realidad virtual.La realidad virtual es una tecnología que te sumerge completamente en un mundo digital, si bien tiene diferentes aplicaciones como en la salud, la educación y la ingeniería. Yo me quise enfocar en algo que a todos nos gusta, que es viajar.
 Como les dije, estaremos en Nueva York, sin embargo, recorrer esta ciudad normalmente toma demasiados días y muchísima plata…
 pero con la realidad virtual vamos a poder saltar de un lugar a otro en segundos y sin gastar plata.
 Ahora sí, denle play al video.
