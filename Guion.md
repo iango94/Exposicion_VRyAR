@@ -17,10 +17,10 @@ Como ven, la Realidad Aumentada nos permite traer lo digital a nuestro mundo fí
 PARTE HANNAH:
 
 ¿A quién de aquí no le gustaría estar en Nueva York?
-Bueno, el día de hoy podremos estar ahí sin necesitar pasaporte, ni visa. Lo único que necesitaremos es escanear este código QR y esperar a que inicie el tour (por favor silencien el video y denle play cuando yo les diga).
+Bueno, el día de hoy podremos estar ahí sin necesitar pasaporte, ni visa. Lo único que necesitaremos es que escaneen este código QR, silencien el video y esperen a que inicie el tour.
 Mientras todos ingresan al video, les cuento: la realidad virtual es una tecnología que te sumerge completamente en un mundo digital. Aunque tiene diferentes aplicaciones como en la salud, la educación y la ingeniería. Yo me quise enfocar en algo que a todos nos gusta, que es viajar.
 Como les dije, estaremos en Nueva York, sin embargo, recorrer esta ciudad normalmente toma demasiados días y muchísima plata…
-pero con la realidad virtual vamos a poder saltar de un lugar a otro en segundos y sin gastar plata.
+pero con la realidad virtual vamos a poder saltar de un lugar a otro en segundos y sin gastar dinero
 Ahora sí, denle play al video.
 ¡BIENVENIDOS A NUEVA YORK!
 En este momento, nos encontramos en Hoboken, que queda dentro de Nueva Jersey. Este lugar nos permite ver desde una de las mejores
